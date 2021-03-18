@@ -24,11 +24,15 @@ An RPS game that takes place in the browser, against the computer. This project 
 
 ## Etch-a-Sketch
 
+Taking DOM Manipulation a step further by adding in loops and event listeners. Takes a default base number of 4 and makes a 4x4 grid of square containers that a user can _paint_ by moving their mouse through them. The user can click reset to change the base number used for the size of the grid, which also clears the board of any _paint_.
+
 [**Code**](https://github.com/billyhelms24/etch-a-sketch) // [**Live Preview**](https://billyhelms24.github.io/etch-a-sketch/)
 
 ![etch-a-sketch.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/etch-a-sketch.png)
 
 ## Calculator
+
+A calculator built using only HTML/CSS and Vanilla JavaScript. The user can load a number using the numberpad onto the display. When an operation is chosen, that number and operation are loaded into an array. The user can then load another number to the display and then click equals for a result or string together multiple operations.
 
 [**Code**](https://github.com/billyhelms24/js-calculator) // [**Live Preview**](https://billyhelms24.github.io/js-calculator/)
 
