@@ -14,8 +14,8 @@ An attempted recreation of the infamous Google Search page, using only basic HTM
 
 An RPS game that takes place in the browser, against the computer. This project acted as my first taste of what JavaScript can do with DOM Manipulation. The computer uses simple RNG to make a selection whenever the user does. The two selections are compared and scored accordingly, displaying the score on the page.
 
-[CODE:](https://github.com/billyhelms24/rock-paper-scissors)
-[LIVE:](https://billyhelms24.github.io/rock-paper-scissors/)
+[CODE](https://github.com/billyhelms24/rock-paper-scissors) <br/>
+[LIVE](https://billyhelms24.github.io/rock-paper-scissors/)
 
 ## Etch-a-Sketch
 
