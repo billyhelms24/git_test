@@ -10,7 +10,7 @@ Because this repo is the product of [**The Odin Project**](https://www.theodinpr
 
 An attempted recreation of the infamous Google Search page, using only basic HTML/CSS.
 
-![google-homepage.png]()
+![google-homepage.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/google-homepage.png)
 
 [**Code**](https://github.com/billyhelms24/google-homepage) // [**Live Preview**](https://billyhelms24.github.io/google-homepage/)
 
