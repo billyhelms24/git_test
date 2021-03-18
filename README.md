@@ -26,8 +26,12 @@ An RPS game that takes place in the browser, against the computer. This project 
 
 [**Code**](https://github.com/billyhelms24/etch-a-sketch) // [**Live Preview**](https://billyhelms24.github.io/etch-a-sketch/)
 
+![etch-a-sketch.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/etch-a-sketch.png)
+
 ## Calculator
 
 [**Code**](https://github.com/billyhelms24/js-calculator) // [**Live Preview**](https://billyhelms24.github.io/js-calculator/)
+
+![js-calculator-png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/js-calculator.png)
 
 ## Library
