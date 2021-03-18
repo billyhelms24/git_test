@@ -10,17 +10,17 @@ Because this repo is the product of [**The Odin Project**](https://www.theodinpr
 
 An attempted recreation of the infamous Google Search page, using only basic HTML/CSS.
 
-![google-homepage.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/google-homepage.png)
-
 [**Code**](https://github.com/billyhelms24/google-homepage) // [**Live Preview**](https://billyhelms24.github.io/google-homepage/)
+
+![google-homepage.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/google-homepage.png)
 
 ## Rock, Paper, Scissors
 
 An RPS game that takes place in the browser, against the computer. This project acted as my first taste of what JavaScript can do with DOM Manipulation. The computer uses simple RNG to make a selection whenever the user does. The two selections are compared and scored accordingly, displaying the score on the page.
 
-![rock-paper-scissors.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/rock-paper-scissors.png)
-
 [**Code**](https://github.com/billyhelms24/rock-paper-scissors) // [**Live Preview**](https://billyhelms24.github.io/rock-paper-scissors/)
+
+![rock-paper-scissors.png](https://raw.githubusercontent.com/billyhelms24/git-test/main/screenshots/rock-paper-scissors.png)
 
 ## Etch-a-Sketch
 
