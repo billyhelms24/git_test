@@ -10,6 +10,10 @@ Because this repo is the product of [**The Odin Project**](https://www.theodinpr
 
 An attempted recreation of the infamous Google Search page, using only basic HTML/CSS.
 
+![google-homepage.png]()
+
+[**Code**](https://github.com/billyhelms24/google-homepage) // [**Live Preview**](https://billyhelms24.github.io/google-homepage/)
+
 ## Rock, Paper, Scissors
 
 An RPS game that takes place in the browser, against the computer. This project acted as my first taste of what JavaScript can do with DOM Manipulation. The computer uses simple RNG to make a selection whenever the user does. The two selections are compared and scored accordingly, displaying the score on the page.
